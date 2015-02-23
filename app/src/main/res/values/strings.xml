@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FunnyJunk</string>
+
+    <string name="title_section1">Frontpage</string>
+    <string name="title_section2">Channels</string>
+    <string name="title_section3">Boards</string>
+    <string name="title_section4">NSFW Content</string>
+    <string name="title_section5">NSFW Boards</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Connection strings-->
+    <string name="url_frontpage">http://www.funnyjunk.com/</string>
+    <string name="url_userpage">http://www.funnyjunk.com/user/%1$s</string>
+    <string name="url_channels">http://www.funnyjunk.com/channels/</string>
+    <string name="url_channels_popular">http://www.funnyjunk.com/channels/popularity</string>
+    <string name="url_channel">http://www.funnyjunk.com/channel/%1$s</string>
+</resources>
